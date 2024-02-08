@@ -1,0 +1,2 @@
+Mixed_Flock = mixed flock ID (n = 398 total and 355 used in the analyses)
+Columns represent species (n = 192) and rows represent the occurrence of each species in each flock (presence/absence data)

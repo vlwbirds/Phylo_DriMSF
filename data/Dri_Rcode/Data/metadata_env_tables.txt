@@ -1,0 +1,12 @@
+Mixed_Flock = mixed flock ID (n = 398 total e 355 in the analyses)
+Localidade = town of sampling (n = 29)
+Latitude e Longitude = centroid of the town
+Fitofisionomia = at mixed flock level (habitat type) (n = 6 types)
+Ecoregion = at site level (Olson 2001) (n = 4 types)
+Temp = mean annual temperature in celcius (WorldClim)
+Prec = mean annual precipitation in mm (WorldClim)
+Alt = altitude in m da coordenada geográfica 
+NPP = net primary productivity (Atlas of the Biosphere)
+evapo = evapotranspiration rate (Atlas of the Biosphere)
+Located = location of the flock (forest interior or edge)
+Edge = same data as "located" but in 1 and 0 (0 = interior; 1 = edge)

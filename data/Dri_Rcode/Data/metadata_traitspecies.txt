@@ -1,0 +1,8 @@
+Species = surveyed species (n = 192)
+wings = in mm (museum)
+rectrizes = in mm (museum)
+tarsus = in mm (museum)
+beak_volume = ratio between length an height in mm (museum)
+BodyMass.Value = in g (Wilman et al., 2014 Ecology - Data Papers)
+Dossel = gradient between ground and canopy foraging strata. 1 represents species that feed mostly in the canopy and 0 species that feed mostly in the ground (Wilman et al., 2014 Ecology - Data Papers)
+Inset-Plant = gradient between insectivory (or small vertebrates) and plant (fruit, seed, nectar) diet. 1 represents species that feed mostly of insects and 0 species that feed of plant products other species (Wilman et al., 2014 Ecology - Data Papers)
